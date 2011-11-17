@@ -1,2 +1,2 @@
---- CPSC4900 Project 3 ---
+# CPSC4900 Project 3 #
 
